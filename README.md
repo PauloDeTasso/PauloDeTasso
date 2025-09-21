@@ -9,7 +9,7 @@
 <!-- Dev Card (local file) -->
 <div align="left">
   <a href="https://github.com/PauloDeTasso">
-    <img width="465px" height="140px" align="left" src="./devcard_paulo.svg" alt="Paulo Dev Card" />
+    <img width="465px" height="140px" align="left" src="https://github-readme-stats.vercel.app/api?username=PauloDeTasso&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDeTasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" />
   </a>
 </div>
@@ -21,6 +21,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloDeTasso&theme=react-dark&area=true&hide_border=false&color=ffffff&line=1B998B&point=ffffff" alt="Gráfico de Atividades de Paulo de Tasso" />
   </a>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/PauloDeTasso">
