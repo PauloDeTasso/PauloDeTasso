@@ -1,26 +1,26 @@
-<a href="https://github.com/tassopaulo"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+CONSÓRCIO+JÁ+É!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/paulodetasso"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+CONSÓRCIO+JÁ+É!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer+e+Evangelizador+do+Agora;Seja+Bem-vindo!🎉)](https://github.com/tassopaulo)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer+e+Evangelizador+do+Agora;Seja+Bem-vindo!🎉)](https://github.com/paulodetasso)
 
 </div>
 
 <div align="left">
-  <a href="https://github.com/tassopaulo">
-    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=tassopaulo&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassopaulo&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" />
+  <a href="https://github.com/paulodetasso">
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulodetasso&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodetasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" />
   </a>
 </div>
 
 </br>
 
 <div align="center">
-  [![Atividades de Paulo](https://github-readme-activity-graph.vercel.app/graph?username=tassopaulo&bg_color=0a0c10&color=ffffff&line=1B998B&point=ffffff&area=true&hide_border=false)](https://github.com/tassopaulo)
+  [![Atividades de Paulo](https://github-readme-activity-graph.vercel.app/graph?username=paulodetasso&bg_color=0a0c10&color=ffffff&line=1B998B&point=ffffff&area=true&hide_border=false)](https://github.com/paulodetasso)
 </div>
 
 <div align="center">
-  <a href="https://github.com/tassopaulo">
+  <a href="https://github.com/paulodetasso">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=3000&color=1B998B&vCenter=true&width=380&height=40&lines=Tecnologias+e+Foco+de+Estudo"/>
   </a>
 
@@ -39,6 +39,6 @@
 
 ---
 
-<a href="https://github.com/tassopaulo">
+<a href="https://github.com/paulodetasso">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FULLSTACK&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
 </a>
