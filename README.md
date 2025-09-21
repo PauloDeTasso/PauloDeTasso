@@ -77,9 +77,9 @@
 
 ## 🌍 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-@pauloconsorcio-purple?style=for-the-badge&logo=instagram)](https://instagram.com/pauloconsorcio)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Atendimento-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5583999999999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20de%20Tasso-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuperfil)
+[![Instagram](https://img.shields.io/badge/Instagram-@pauloconsorcio-purple?style=for-the-badge&logo=instagram)](https://instagram.com/paulo_de_tasso)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Atendimento-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5583998454848)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20de%20Tasso-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paulodetasso)
 
 ---
 
