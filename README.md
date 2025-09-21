@@ -38,15 +38,6 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br> ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=java&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 
 ---
-
-## 🧭 Protocols & APIs
-
-[![API](https://img.shields.io/badge/API-Design-informational?style=for-the-badge)](https://github.com/PauloDeTasso)  
-[![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)](https://github.com/PauloDeTasso) [![RESTful](https://img.shields.io/badge/RESTful-Standards-lightgrey?style=for-the-badge)](https://github.com/PauloDeTasso) [![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=for-the-badge)](https://github.com/PauloDeTasso) [![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)](https://github.com/PauloDeTasso)  
-[![JSON](https://img.shields.io/badge/JSON-Data-ff6f00?style=for-the-badge)](https://github.com/PauloDeTasso) [![XML](https://img.shields.io/badge/XML-Data-blue?style=for-the-badge)](https://github.com/PauloDeTasso)
-
----
-
 ## 🗄️ Databases
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
