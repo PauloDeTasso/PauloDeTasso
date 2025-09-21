@@ -20,12 +20,6 @@
   <br/><br/>
 
   <a href="https://github.com/PauloDeTasso">
-    <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=PauloDeTasso&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo De Tasso github stats" />
-      </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/PauloDeTasso">
     <img height="350px" src="https://github.com/PauloDeTasso/PauloDeTasso/blob/main/devcard.svg" alt="Paulo De Tasso Dev Card"/>
   </a>
 
