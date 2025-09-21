@@ -1,8 +1,8 @@
-<a href="https://github.com/paulodetasso"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/PauloDeTasso"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer;Seja+Bem-vindo!🎉)](https://github.com/paulodetasso)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer;Seja+Bem-vindo!🎉)](https://github.com/PauloDeTasso)
 
 </div>
 
@@ -23,14 +23,61 @@
 
 
 <div align="center">
-  <a href="https://github.com/paulodetasso">
+  <a href="https://github.com/PauloDeTasso">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=3000&color=1B998B&vCenter=true&width=380&height=40&lines=Tecnologias+e+Foco+de+Estudo"/>
   </a>
 
+```markdown
+<a href="https://github.com/PauloDeTasso">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1B998B&vCenter=true&width=370&height=40&lines=Especializa%C3%A7%C3%A3o+•+DevSecOps+e+Engenharia+de+Software"/> 
+</a>
+
 | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=1B998B&vCenter=true&width=110&height=20&lines=Front-end" /></h2> | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=1B998B&vCenter=true&width=100&height=20&lines=Back-End" /></h2> | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=1B998B&vCenter=true&width=75&height=20&lines=Mobile" /></h2> |
 | - | - | - |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-</div>
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br> ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=java&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) <br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+
+---
+
+## 🧭 Protocols & APIs
+
+[![API](https://img.shields.io/badge/API-Design-informational?style=for-the-badge)](https://github.com/PauloDeTasso)  
+[![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)](https://github.com/PauloDeTasso) [![RESTful](https://img.shields.io/badge/RESTful-Standards-lightgrey?style=for-the-badge)](https://github.com/PauloDeTasso) [![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=for-the-badge)](https://github.com/PauloDeTasso) [![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)](https://github.com/PauloDeTasso)  
+[![JSON](https://img.shields.io/badge/JSON-Data-ff6f00?style=for-the-badge)](https://github.com/PauloDeTasso) [![XML](https://img.shields.io/badge/XML-Data-blue?style=for-the-badge)](https://github.com/PauloDeTasso)
+
+---
+
+## 🗄️ Databases
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🛠️ Ferramentas & IDEs
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <br> ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) <br> ![NetBeans](https://img.shields.io/badge/NetBeans-2D3E50?style=for-the-badge&logo=apache-netbeans&logoColor=white) <br> ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) <br> ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## ☁️ Plataformas & Infraestrutura
+
+| Containerização e Orquestração | IaC & Automação | CI/CD & GitOps | Monitoramento, Logs & Tracing | Operações & Infra |
+|--------------------------------|------------------|----------------|-------------------------------|-------------------|
+| <p align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/></p> |
+| <p align="center"><img src="https://img.shields.io/badge/Docker_Swarm-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/OpenTelemetry-4f62ad?style=for-the-badge&logo=opentelemetry&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/VPS_CLOUD-00ADEF?style=for-the-badge&logo=amazonaws&logoColor=white"/></p> |
+|  |  |  | <p align="center"><img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white"/></p> | <p align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p> |
+|  |  |  |  | <p align="center"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></p> |
+
+---
+
+## 🔧 Extras & Design
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) <br> ![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge) <br> ![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge) <br> ![DevSecOps](https://img.shields.io/badge/DevSecOps-Security-green?style=for-the-badge)
+
+---
+
+**DevSecOps e Engenheiro de Software — (6/8) | Spring | React | DevSecOps | Web | Mobile | Desktop | Java | PHP | Python | SQL | PostgreSQL | MySQL | HTML | CSS | JS**
+```
+
 
 ---
 
@@ -42,6 +89,6 @@
 
 ---
 
-<a href="https://github.com/paulodetasso">
+<a href="https://github.com/PauloDeTasso">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FULLSTACK&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
 </a>
