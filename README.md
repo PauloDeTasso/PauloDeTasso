@@ -1,8 +1,8 @@
-<a href="https://github.com/paulodetasso"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+CONSÓRCIO+JÁ+É!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/paulodetasso"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer+e+Evangelizador+do+Agora;Seja+Bem-vindo!🎉)](https://github.com/paulodetasso)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer;Seja+Bem-vindo!🎉)](https://github.com/paulodetasso)
 
 </div>
 
