@@ -40,5 +40,5 @@
 ---
 
 <a href="https://github.com/tassopaulo">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FULLSTACK.&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FULLSTACK&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
 </a>
