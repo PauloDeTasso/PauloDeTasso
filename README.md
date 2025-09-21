@@ -75,10 +75,6 @@
 
 ---
 
-**DevSecOps e Engenheiro de Software — (6/8) | Spring | React | DevSecOps | Web | Mobile | Desktop | Java | PHP | Python | SQL | PostgreSQL | MySQL | HTML | CSS | JS**
-
----
-
 ## 🌍 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-@pauloconsorcio-purple?style=for-the-badge&logo=instagram)](https://instagram.com/pauloconsorcio)
