@@ -16,7 +16,7 @@
 </br>
 
 <div align="center">
-  [![Atividades de Paulo](https://github-readme-activity-graph.vercel.app/graph?username=paulodetasso&bg_color=0a0c10&color=ffffff&line=1B998B&point=ffffff&area=true&hide_border=false)](https://github.com/paulodetasso)
+  [![Atividades de Paulo](https://github-readme-activity-graph.vercel.app/graph?username=tassopaulo&theme=react-dark&area=true&hide_border=false&color=ffffff&line=1B998B&point=ffffff)](https://github.com/paulodetasso)
 </div>
 
 <div align="center">
