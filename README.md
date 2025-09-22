@@ -1,36 +1,34 @@
+<!-- README.md — CENTRALIZADO (vertical + horizontal) -->
+<!-- Já é! Obrigado pelo alinhamento. -->
+
+<table width="100%" height="100vh">
+  <tr>
+    <td align="center" valign="middle">
+
 <a href="https://github.com/PauloDeTasso">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="PAULO DE TASSO Header"/>
 </a>
 
-<div align="center">
+<br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+formação;FullStack+Developer;Seja+Bem-vindo!🎉)](https://github.com/PauloDeTasso)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;FullStack+Developer;Seja+Bem-vindo%21%F0%9F%8E%89)](https://github.com/PauloDeTasso)
 
 <br/>
 
-<div align="center">
+<a href="https://github.com/PauloDeTasso">
+  <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=PauloDeTasso&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
+  <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDeTasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" alt="Top languages"/>
+</a>
 
-  <a href="https://github.com/PauloDeTasso">
-    <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=PauloDeTasso&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
-    <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDeTasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
-
-  <a href="https://github.com/PauloDeTasso">
-    <img height="350px" src="https://github.com/PauloDeTasso/PauloDeTasso/blob/main/devcard.svg" alt="Paulo De Tasso Dev Card"/>
-  </a>
-
-</div>
+<a href="https://github.com/PauloDeTasso">
+  <img height="350px" src="https://raw.githubusercontent.com/PauloDeTasso/PauloDeTasso/main/devcard.svg" alt="Paulo De Tasso Dev Card"/>
+</a>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1500&color=1B998B&vCenter=true&width=550&height=40&lines=DevSecOps+Engineer;Onion+Architecture;Clean+Architecture;Domain+Driven+Design;Component+Based+Development;SOLID+Principles;GoF+Design+Patterns;GRASP+Principles;Alta+Coesao+%2B+Baixo+Acoplamento" alt="Paulo de Tasso - Tech Stack"/>
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1500&color=1B998B&vCenter=true&width=550&height=40&lines=DevSecOps+Engineer;Onion+Architecture;Clean+Architecture;Domain+Driven+Design;Component+Based+Development;SOLID+Principles;GoF+Design+Patterns;GRASP+Principles;Alta+Coesao+%2B+Baixo+Acoplamento" alt="Paulo de Tasso - Tech Stack"/>
 
 <br/>
 
@@ -87,8 +85,12 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Atendimento-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5583998454848)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20de%20Tasso-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paulodetasso)
 
----
+<br/>
 
 <a href="https://github.com/PauloDeTasso">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FullStack+ &fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FullStack+&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55" alt="Footer"/>
 </a>
+
+    </td>
+  </tr>
+</table>
