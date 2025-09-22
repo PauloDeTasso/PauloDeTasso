@@ -30,9 +30,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/PauloDeTasso">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=3000&color=1B998B&vCenter=true&width=380&height=40&lines=Tecnologias+e+Foco+de+Estudo"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=3000&color=1B998B&vCenter=true&width=380&height=40&lines=Tecnologias+e+Foco+de+Estudo" alt="Typing SVG"/>
 </div>
 
 <div align="center">
