@@ -37,9 +37,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1B998B&vCenter=true&width=370&height=40&lines=Especialista+•+DevSecOps+e+Engenharia+de+Software" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1B998B&vCenter=true&width=450&height=40&lines=Onion/Clean+Architecture+•+DDD+•+CBD/Components" alt="Typing SVG"/>
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1B998B&lines=Clean+Architecture+DDD+Components)
+
 <br/>
 
 ### 🚀 **Stacks**
