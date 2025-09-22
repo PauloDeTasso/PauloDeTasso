@@ -30,16 +30,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=3000&color=1B998B&vCenter=true&width=380&height=40&lines=Tecnologias+e+Foco+de+Estudo" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=4000&pause=1500&color=1B998B&center=true&vCenter=true&width=500&height=40&lines=DevSecOps+Engineer;Clean+Architecture+Advocate;Domain+Driven+Design;Component+Based+Development" alt="Paulo de Tasso - Tech Stack"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=1B998B&vCenter=true&width=370&height=40&lines=Especialista+•+DevSecOps+e+Engenharia+de+Software" alt="Typing SVG"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1B998B&vCenter=true&width=400&height=40&lines=Clean+Architecture;Domain+Driven+Design;Component+Based+Dev" alt="Typing SVG"/>
-</p>
 
 <br/>
 
