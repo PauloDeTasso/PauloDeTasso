@@ -27,12 +27,6 @@
 
 <br/><br/>
 
-<div align="center">
-  <a href="https://github.com/PauloDeTasso">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloDeTasso&theme=react-dark&area=true&hide_border=false&color=ffffff&line=1B998B&point=ffffff" alt="Gráfico de Atividades de Paulo de Tasso" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
