@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=4000&pause=1500&color=1B998B&center=true&vCenter=true&width=500&height=40&lines=DevSecOps+Engineer;Clean+Architecture+Advocate;Domain+Driven+Design;Component+Based+Development" alt="Paulo de Tasso - Tech Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=4000&pause=1500&color=1B998B&center=true&vCenter=true&width=500&height=40&lines=DevSecOps+Engineer;Onion+Architecture;Clean+Architecture;Domain+Driven+Design;Component+Based+Development;SOLID;GOF;GRASP;ALTA+COESÃO;BAIXO+ACOMPLAMENTO;" alt="Paulo de Tasso - Tech Stack"/>
 </div>
 
 <br/>
