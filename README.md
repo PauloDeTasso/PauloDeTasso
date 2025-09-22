@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&color=1B998B&vCenter=true&width=400&height=40&lines=Clean+Architecture;Domain+Driven+Design;Component+Based+Dev" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=1B998B&vCenter=true&width=450&height=40&lines=Onion/Clean+Architecture;Domain+Driven+Design;Component+Based+Development" alt="Typing SVG"/>
 </div>
 <br/>
 
