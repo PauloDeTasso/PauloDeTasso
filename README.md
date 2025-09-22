@@ -1,9 +1,7 @@
-<!-- README.md — CENTRALIZADO (vertical + horizontal) -->
-<!-- Já é! Obrigado pelo alinhamento. -->
+<div align="center">
 
-<table width="100%" height="100vh">
-  <tr>
-    <td align="center" valign="middle">
+<!-- spacer topo: ajuste a altura (px) se precisar mover visualmente para cima/baixo -->
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='160'></svg>" alt="" />
 
 <a href="https://github.com/PauloDeTasso">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="PAULO DE TASSO Header"/>
@@ -91,6 +89,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FullStack+&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55" alt="Footer"/>
 </a>
 
-    </td>
-  </tr>
-</table>
+<!-- spacer rodapé: mantém o visual equilibrado -->
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='160'></svg>" alt="" />
+
+</div>
