@@ -18,12 +18,6 @@
   <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDeTasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" alt="Top languages"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/PauloDeTasso">
-  <img height="350px" src="https://raw.githubusercontent.com/PauloDeTasso/PauloDeTasso/main/devcard.svg" alt="Paulo De Tasso Dev Card"/>
-</a>
-
 <br/>
 
 ### 🚀 **Stacks**
