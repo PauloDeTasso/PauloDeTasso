@@ -20,16 +20,15 @@
   <rect width="900" height="320" fill="url(#g1)" rx="12" />
 
   <!-- Left: circular photo -->
- <g clip-path="url(#circleView)">
-  <image 
-    x="40" 
-    y="40" 
-    width="240" 
-    height="240" 
-    href="https://scontent.fcpv6-1.fna.fbcdn.net/v/t39.30808-6/468637972_8912234422172166_8414948735941198433_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=MqfRji0vdbcQ7kNvwE2D8Iq&_nc_oc=AdkWuf66BNU__byXc1h4M045jeQZeCIcgs36cx4eAu2lc7-fLdDt-xOzgHHJidnnRE0&_nc_zt=23&_nc_ht=scontent.fcpv6-1.fna&_nc_gid=c72R8sGnIoKkMvqlrOZ0_g&oh=00_AfZful4irSeef0Ln8XlxL9KibZnXp2XTzK5IQqBjftsiaA&oe=68D7BEBC" 
-    preserveAspectRatio="xMidYMid slice" 
-  />
-</g>
+<image 
+  x="40" 
+  y="40" 
+  width="240" 
+  height="240" 
+  href="https://raw.githubusercontent.com/PauloDeTasso/PauloDeTasso/main/01.jpg" 
+  preserveAspectRatio="xMidYMid slice" 
+/>
+
 
   <circle cx="160" cy="160" r="122" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
 
