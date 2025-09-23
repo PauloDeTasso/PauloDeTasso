@@ -11,7 +11,6 @@
   />
 </a>
 
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;FullStack+Developer;Seja+Bem-vindo%21%F0%9F%8E%89)](https://github.com/PauloDeTasso)
@@ -81,8 +80,13 @@
 <br/>
 
 <a href="https://github.com/PauloDeTasso">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B998B&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FullStack+&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55" alt="Footer"/>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FullStack+&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55" 
+    alt="Footer"
+  />
 </a>
+
 
 <!-- spacer rodapé: mantém o visual equilibrado -->
 <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='160'></svg>" alt="" />
