@@ -108,7 +108,7 @@
 <a href="https://github.com/PauloDeTasso">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00B4D8&height=180&section=footer&text=Paulo+de+Tasso+DevSecOps+FullStack+&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00B4D8&height=180&section=footer&text=Paulo+de+Tasso+-+DevSecOps+-+FullStack+&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=55" 
     alt="Footer"
   />
 </a>
