@@ -102,32 +102,11 @@
   <h3>Aluno Nota 10 - Estácio</h3>
   <p><i>Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (Nota 10)</i></p>
 
-  <!-- Card Reconhecimento SVG -->
-  <a href="./estacio_reconhecimento2025.jpg" target="_blank">
-    <img 
-      src="data:image/svg+xml;utf8,
-      <svg xmlns='http://www.w3.org/2000/svg' width='320' height='200'>
-        <rect x='0' y='0' width='320' height='200' rx='16' ry='16' fill='%23ffffff' stroke='%23cccccc' stroke-width='2'/>
-        <image href='./estacio_reconhecimento2025.jpg' x='0' y='0' width='320' height='200' clip-path='url(%23clip)'></image>
-      </svg>" 
-      alt="Parabenização Estácio 2025"
-      style="margin: 8px;"
-    />
-  </a>
-
-  <a href="./estacio_reconhecimento2024.jpg" target="_blank">
-    <img 
-      src="data:image/svg+xml;utf8,
-      <svg xmlns='http://www.w3.org/2000/svg' width='320' height='200'>
-        <rect x='0' y='0' width='320' height='200' rx='16' ry='16' fill='%23ffffff' stroke='%23cccccc' stroke-width='2'/>
-        <image href='./estacio_reconhecimento2024.jpg' x='0' y='0' width='320' height='200' clip-path='url(%23clip)'></image>
-      </svg>" 
-      alt="Parabenização Estácio 2024"
-      style="margin: 8px;"
-    />
-  </a>
+  <img src="./estacio2025_card.png" alt="Parabenização Estácio 2025" width="320px" style="margin:8px;"/>
+  <img src="./estacio2024_card.png" alt="Parabenização Estácio 2024" width="320px" style="margin:8px;"/>
 
 </div>
+
 
 ---
 <br/>
