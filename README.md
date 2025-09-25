@@ -72,9 +72,11 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge)  
-![ERD - Entity-Relationship Diagram](https://img.shields.io/badge/ERD-Entity%20Relationship%20Diagram-FF8C00?style=for-the-badge)
+![ERD - Entity-Relationship Diagram](https://img.shields.io/badge/ERD-Entity%20Relationship%20Diagram-FF8C00?style=for-the-badge)  
+![UML - Unified Modeling Language](https://img.shields.io/badge/UML-Unified%20Modeling%20Language-00CED1?style=for-the-badge)
 
 </div>
+
 
 ---
 
