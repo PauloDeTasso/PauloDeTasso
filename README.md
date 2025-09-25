@@ -129,7 +129,7 @@
 
 <div align="center">
   
-## 🏅 Reconhecimentos Acadêmicos
+🏅 Reconhecimentos Acadêmicos
 
   <h3>Aluno Nota 10 - Estácio</h3>
   <p><i>Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (Nota 10)</i></p>
@@ -151,7 +151,7 @@
 
 ---
 
-## 🐾 Projetos em Destaque
+🐾 Projetos em Destaque
 
 ### 🐶 Adote um Pet
 ![Logo Prefeitura](./logo-prefeitura1.jpg)  
