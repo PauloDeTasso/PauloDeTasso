@@ -126,11 +126,10 @@
 ![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge)  
 
 ---
-
-<div align="center">
   
 🏅 Reconhecimentos Acadêmicos
 
+<div align="center">
   <h3>Aluno Nota 10 - Estácio</h3>
   <p><i>Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (Nota 10)</i></p>
   <table>
@@ -153,7 +152,7 @@
 
 🐾 Projetos em Destaque
 
-### 🐶 Adote um Pet
+🐶 Adote um Pet
 ![Logo Prefeitura](./logo-prefeitura1.jpg)  
 O projeto **"Adote um Pet"** é uma iniciativa de extensão da faculdade Estácio, desenvolvida por Paulo de Tasso.  
 Em parceria com a Vigilância Sanitária de Imaculada-PB, o projeto visa resgatar cães em situação de abandono e disponibilizá-los para adoção no canil público.  
