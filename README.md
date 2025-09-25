@@ -1,4 +1,6 @@
 <div align="center">
+  
+[![▶️ Play Music](https://img.shields.io/badge/Play-Music-ff69b4?style=for-the-badge)](https://www.youtube.com/watch?v=5-rbSNzU_b8)
 
 <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='160'></svg>" alt="" />
 
