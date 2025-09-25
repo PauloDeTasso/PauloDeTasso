@@ -132,11 +132,11 @@ O objetivo é oferecer um novo lar para esses animais e promover a conscientiza�
 ---
 
 ### 🌐 Portfólio de Projetos
-<img src="./SITE-001.jpg" alt="Portfolio" width="50%" />  
-Este link reúne **outros projetos desenvolvidos por Paulo de Tasso**  
-
-🌐 [Visite o projeto online](https://paulodetasso.github.io/projetos/)
-
+<div align="center">
+  <img src="./SITE-001.jpg" alt="Portfolio" width="50%" />
+  <p>Este link reúne <b>outros projetos desenvolvidos por Paulo de Tasso</b></p>
+  🌐 <a href="https://paulodetasso.github.io/projetos/">Visite o projeto online</a>
+</div>
 
 ---
 
