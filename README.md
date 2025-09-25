@@ -4,13 +4,12 @@
 <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='160'></svg>" alt="" />
 
 <a href="https://github.com/PauloDeTasso">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0A192F,00B4D8&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" 
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00B4D8&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"
     alt="PAULO DE TASSO Header"
   />
 </a>
-
 
 <br/>
 
