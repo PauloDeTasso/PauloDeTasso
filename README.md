@@ -77,33 +77,21 @@
 <div align="center">
 
   <h3>Aluno Nota 10 - Estácio</h3>
-  <p><i>Reconhecimento pela Estácio por excelência em todas as disciplinas em 2024 e 2025!</i></p>
+  <p><i>Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (2024 e 2025)</i></p>
 
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-    <div style="
-      background: #ffffff;
-      border-radius: 16px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-      padding: 12px;
-      max-width: 320px;
-    ">
-      <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" style="border-radius: 12px; width: 100%;">
-    </div>
-
-    <div style="
-      background: #ffffff;
-      border-radius: 16px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-      padding: 12px;
-      max-width: 320px;
-    ">
-      <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" style="border-radius: 12px; width: 100%;">
-    </div>
-
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px"/>
+      </td>
+      <td>
+        <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 ---
