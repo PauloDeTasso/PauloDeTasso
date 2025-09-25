@@ -26,7 +26,7 @@
 
 ![MVC](https://img.shields.io/badge/MVC-Model%2C%20View%2C%20Controller-4B0082?style=for-the-badge)  
 ![DDD - Domain Driven Design](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-6f42c1?style=for-the-badge)  
-![CBD - Component-Based Design](https://img.shields.io/badge/CBD-Component-Based%20Design-0078d4?style=for-the-badge)  
+![CBD - ComponentBasedDesign](https://img.shields.io/badge/CBD-ComponentBasedDesign-0078d4?style=for-the-badge)  
 ![Onion Architecture](https://img.shields.io/badge/Onion-Architecture-ff69b4?style=for-the-badge)  
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-2ca02c?style=for-the-badge)  
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal-Architecture-f4b400?style=for-the-badge)  
@@ -58,7 +58,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres&logoColor=white)
 
 ---
 
