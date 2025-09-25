@@ -99,23 +99,50 @@
 
 <div align="center">
 
-  <h3>Aluno Nota 10 - Estácio</h3>
-  <p><i>Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (Nota 10)</i></p>
+  <h3 style="margin-bottom: 4px; color:#1B998B;">Aluno Nota 10 - Estácio</h3>
+  <p style="margin-top:0; font-style: italic; color:#555555;">
+    Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (Nota 10)
+  </p>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="./estacio_reconhecimento2025.jpg" target="_blank">
-          <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="./estacio_reconhecimento2024.jpg" target="_blank">
-          <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-top: 16px;">
+
+    <!-- Card 2025 -->
+    <div style="
+      background: #f9f9f9;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      padding: 12px;
+      max-width: 320px;
+      transition: all 0.2s ease-in-out;
+    ">
+      <a href="./estacio_reconhecimento2025.jpg" target="_blank">
+        <img 
+          src="./estacio_reconhecimento2025.jpg" 
+          alt="Parabenização Estácio 2025" 
+          style="border-radius:12px; width:100%; display:block;"
+        />
+      </a>
+    </div>
+
+    <!-- Card 2024 -->
+    <div style="
+      background: #f9f9f9;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      padding: 12px;
+      max-width: 320px;
+      transition: all 0.2s ease-in-out;
+    ">
+      <a href="./estacio_reconhecimento2024.jpg" target="_blank">
+        <img 
+          src="./estacio_reconhecimento2024.jpg" 
+          alt="Parabenização Estácio 2024" 
+          style="border-radius:12px; width:100%; display:block;"
+        />
+      </a>
+    </div>
+
+  </div>
 
 </div>
 
