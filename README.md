@@ -96,17 +96,24 @@
 ---
 
 ## 🏅 Reconhecimentos Acadêmicos
-
 <div align="center">
-
   <h3>Aluno Nota 10 - Estácio</h3>
   <p><i>Reconhecimento oficial da Estácio pela excelência em todas as disciplinas (Nota 10)</i></p>
-
-  <img src="./estacio2025_card.png" alt="Parabenização Estácio 2025" width="320px" style="margin:8px;"/>
-  <img src="./estacio2024_card.png" alt="Parabenização Estácio 2024" width="320px" style="margin:8px;"/>
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="./estacio_reconhecimento2025.jpg" target="_blank">
+          <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="./estacio_reconhecimento2024.jpg" target="_blank">
+          <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 <br/>
