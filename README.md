@@ -28,32 +28,23 @@
 
 ### 🏗️ **Arquitetura & Padrões**
 
-![DDD - Domain Driven Design](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-6f42c1?style=for-the-badge&logo=azuredevops&logoColor=white)  
-![CBD - Componentes](https://img.shields.io/badge/CBD-Componentes-0078d4?style=for-the-badge&logo=architecture?logoColor=white)  
-![Onion Architecture](https://img.shields.io/badge/Onion-Architecture-ff69b4?style=for-the-badge&logo=github&logoColor=white)  
-![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-2ca02c?style=for-the-badge&logo=github&logoColor=white)  
-![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal-Architecture-f4b400?style=for-the-badge&logo=github&logoColor=white)  
-![SOLID](https://img.shields.io/badge/SOLID-Principles-1f77b4?style=for-the-badge&logo=github&logoColor=white)  
-![GRASP](https://img.shields.io/badge/GRASP-Principles-9467bd?style=for-the-badge&logo=github&logoColor=white)  
-![GOF](https://img.shields.io/badge/GOF-Design%20Patterns-ff7f0e?style=for-the-badge&logo=github&logoColor=white) 
-![Alta Coesão & Baixo Acoplamento](https://img.shields.io/badge/High%20Cohesion-Low%20Coupling-17becf?style=for-the-badge&logo=github&logoColor=white) 
+![DDD - Domain Driven Design](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-6f42c1?style=for-the-badge)  
+![CBD - Componentes](https://img.shields.io/badge/CBD-Componentes-0078d4?style=for-the-badge)  
+![Onion Architecture](https://img.shields.io/badge/Onion-Architecture-ff69b4?style=for-the-badge)  
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-2ca02c?style=for-the-badge)  
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal-Architecture-f4b400?style=for-the-badge)  
+![SOLID](https://img.shields.io/badge/SOLID-Principles-1f77b4?style=for-the-badge)  
+![GRASP](https://img.shields.io/badge/GRASP-Principles-9467bd?style=for-the-badge)  
+![GOF](https://img.shields.io/badge/GOF-Design%20Patterns-ff7f0e?style=for-the-badge)  
+![Alta Coesão & Baixo Acoplamento](https://img.shields.io/badge/High%20Cohesion-Low%20Coupling-17becf?style=for-the-badge)
 
 ---
 
-### 🛡️ **UML, Segurança & Metodologias Ágeis**
+### ⚡ **Metodologias Ágeis & Boas Práticas**
 
-<!-- UML / Modelagem -->
-![UML](https://img.shields.io/badge/UML-Modeling-00bfff?style=for-the-badge&logo=mermaid&logoColor=white)  
-
-<!-- Segurança / DevSecOps -->
-![OWASP](https://img.shields.io/badge/OWASP-Security-ff0000?style=for-the-badge)  
-![DevSecOps](https://img.shields.io/badge/DevSecOps-Practices-17becf?style=for-the-badge)  
-![PenTesting](https://img.shields.io/badge/PenTesting-Tools-f4b400?style=for-the-badge)  
-
-<!-- Metodologias Ágeis / Boas práticas -->
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-6f42c1?style=for-the-badge)  
-![Kanban](https://img.shields.io/badge/Kanban-Agile-0078d4?style=for-the-badge)  
 ![XP](https://img.shields.io/badge/Extreme%20Programming-Agile-9467bd?style=for-the-badge)  
+![Kanban](https://img.shields.io/badge/Kanban-Agile-0078d4?style=for-the-badge)
 
 ---
 
