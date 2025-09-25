@@ -98,11 +98,19 @@
 ![SCA](https://img.shields.io/badge/SCA-Dependency%20Scan-0EA5A4?style=for-the-badge)  
 ![SBOM](https://img.shields.io/badge/SBOM-Software%20Bill%20of%20Materials-7C3AED?style=for-the-badge)  
 ![Trivy](https://img.shields.io/badge/Trivy-Scanner-1F2937?style=for-the-badge)  
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧪 **Tests**
+
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)  
 ![Mockito](https://img.shields.io/badge/Mockito-6B7280?style=for-the-badge)  
 ![Integration Tests](https://img.shields.io/badge/Integration%20Tests-0EA5A4?style=for-the-badge)  
 ![E2E](https://img.shields.io/badge/E2E-Playwright%20%7C%20Cypress-DB2777?style=for-the-badge)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 </div>
 
