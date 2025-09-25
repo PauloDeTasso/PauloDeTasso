@@ -116,11 +116,6 @@
 </div>
 
 ---
-<br/>
-
----
-
----
 
 ## 🐾 Projetos em Destaque
 
