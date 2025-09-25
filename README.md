@@ -6,10 +6,11 @@
 <a href="https://github.com/PauloDeTasso">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0A192F,00B4D8&height=180&section=header&text=PAULO+DE+TASSO&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" 
     alt="PAULO DE TASSO Header"
   />
 </a>
+
 
 <br/>
 
