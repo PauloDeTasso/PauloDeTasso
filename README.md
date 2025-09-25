@@ -81,17 +81,34 @@
 
   <table>
     <tr>
-      <td>
-        <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px"/>
+      <td align="center">
+        <a href="./estacio_reconhecimento2025.jpg" target="_blank">
+          <img 
+            src="./estacio_reconhecimento2025.jpg" 
+            alt="Parabenização Estácio 2025" 
+            width="300px" 
+            style="border-radius:16px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); transition: transform 0.3s ease-in-out;" 
+            onmouseover="this.style.transform='scale(1.05)'" 
+            onmouseout="this.style.transform='scale(1)'"
+          />
+        </a>
       </td>
-      <td>
-        <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px"/>
+      <td align="center">
+        <a href="./estacio_reconhecimento2024.jpg" target="_blank">
+          <img 
+            src="./estacio_reconhecimento2024.jpg" 
+            alt="Parabenização Estácio 2024" 
+            width="300px" 
+            style="border-radius:16px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); transition: transform 0.3s ease-in-out;" 
+            onmouseover="this.style.transform='scale(1.05)'" 
+            onmouseout="this.style.transform='scale(1)'"
+          />
+        </a>
       </td>
     </tr>
   </table>
 
 </div>
-
 
 
 ---
