@@ -82,10 +82,10 @@
   <table>
     <tr>
       <td>
-        <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px"/>
+        <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2024" width="300px"/>
       </td>
       <td>
-        <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px"/>
+        <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2025" width="300px"/>
       </td>
     </tr>
   </table>
