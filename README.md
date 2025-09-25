@@ -148,12 +148,14 @@
     <tr>
       <td align="center">
         <a href="./estacio_reconhecimento2025.jpg" target="_blank">
-          <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px" />
+          <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px"
+               style="border: 5px solid #4B0082; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
         </a>
       </td>
       <td align="center">
         <a href="./estacio_reconhecimento2024.jpg" target="_blank">
-          <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px" />
+          <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px"
+               style="border: 5px solid #4B0082; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
         </a>
       </td>
     </tr>
