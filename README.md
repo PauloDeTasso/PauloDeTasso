@@ -24,6 +24,23 @@
 
 <br/>
 
+---
+
+### 🏗️ **Arquitetura & Padrões**
+
+![DDD - Domain Driven Design](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-6f42c1?style=for-the-badge&logo=azuredevops&logoColor=white)  
+![CBD - Componentes](https://img.shields.io/badge/CBD-Componentes-0078d4?style=for-the-badge&logo=architecture?logoColor=white)  
+![Onion Architecture](https://img.shields.io/badge/Onion-Architecture-ff69b4?style=for-the-badge&logo=github&logoColor=white)  
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-2ca02c?style=for-the-badge&logo=github&logoColor=white)  
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal-Architecture-f4b400?style=for-the-badge&logo=github&logoColor=white)  
+![SOLID](https://img.shields.io/badge/SOLID-Principles-1f77b4?style=for-the-badge&logo=github&logoColor=white)  
+![GOF](https://img.shields.io/badge/GOF-Design%20Patterns-ff7f0e?style=for-the-badge&logo=github&logoColor=white)  
+![GRASP](https://img.shields.io/badge/GRASP-Principles-9467bd?style=for-the-badge&logo=github&logoColor=white)  
+![Alta Coesão & Baixo Acoplamento](https://img.shields.io/badge/High%20Cohesion-Low%20Coupling-17becf?style=for-the-badge&logo=github&logoColor=white)
+
+
+---
+
 ### 🚀 **Stacks**
 
 | Front-end | Back-End | Mobile |
