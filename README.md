@@ -83,26 +83,12 @@
     <tr>
       <td align="center">
         <a href="./estacio_reconhecimento2025.jpg" target="_blank">
-          <img 
-            src="./estacio_reconhecimento2025.jpg" 
-            alt="Parabenização Estácio 2025" 
-            width="300px" 
-            style="border-radius:16px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); transition: transform 0.3s ease-in-out;" 
-            onmouseover="this.style.transform='scale(1.05)'" 
-            onmouseout="this.style.transform='scale(1)'"
-          />
+          <img src="./estacio_reconhecimento2025.jpg" alt="Parabenização Estácio 2025" width="300px" />
         </a>
       </td>
       <td align="center">
         <a href="./estacio_reconhecimento2024.jpg" target="_blank">
-          <img 
-            src="./estacio_reconhecimento2024.jpg" 
-            alt="Parabenização Estácio 2024" 
-            width="300px" 
-            style="border-radius:16px; box-shadow: 0 8px 20px rgba(0,0,0,0.25); transition: transform 0.3s ease-in-out;" 
-            onmouseover="this.style.transform='scale(1.05)'" 
-            onmouseout="this.style.transform='scale(1)'"
-          />
+          <img src="./estacio_reconhecimento2024.jpg" alt="Parabenização Estácio 2024" width="300px" />
         </a>
       </td>
     </tr>
@@ -129,8 +115,6 @@
     alt="Footer"
   />
 </a>
-
-
 
 <!-- spacer rodapé: mantém o visual equilibrado -->
 <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1' height='160'></svg>" alt="" />
