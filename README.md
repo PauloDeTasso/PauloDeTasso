@@ -164,15 +164,30 @@
 
 ---
 
-🐾 Projetos em Destaque
+<div align="center">
 
-🐶 Adote um Pet
-![Logo Prefeitura](./logo-prefeitura1.jpg)  
-O projeto **"Adote um Pet"** é uma iniciativa de extensão da faculdade Estácio, desenvolvida por Paulo de Tasso.  
-Em parceria com a Vigilância Sanitária de Imaculada-PB, o projeto visa resgatar cães em situação de abandono e disponibilizá-los para adoção no canil público.  
-O objetivo é oferecer um novo lar para esses animais e promover a conscientização sobre a importância da adoção responsável.  
+  <h3>🐾 Projetos em Destaque</h3>
 
-🔗 [Acesse o repositório no GitHub](https://github.com/PauloDeTasso/AdoteUmPet)  
+  <h4>🐶 Adote um Pet</h4>
+
+  <img src="./logo-prefeitura1.jpg" alt="Logo Prefeitura" width="200px" /><br><br>
+
+  <p align="center" style="max-width: 600px; line-height: 1.6;">
+    O projeto <strong>"Adote um Pet"</strong> é uma iniciativa de extensão da faculdade Estácio,<br>
+    desenvolvida por Paulo de Tasso.<br><br>
+    Em parceria com a Vigilância Sanitária de Imaculada-PB,<br>
+    o projeto visa resgatar cães em situação de abandono<br>
+    e disponibilizá-los para adoção no canil público.<br><br>
+    O objetivo é oferecer um novo lar para esses animais<br>
+    e promover a conscientização sobre a importância da adoção responsável.
+  </p>
+
+  <p>
+    🔗 <a href="https://github.com/PauloDeTasso/AdoteUmPet" target="_blank">
+    Acesse o repositório no GitHub</a>
+  </p>
+
+</div>
 
 ---
 
