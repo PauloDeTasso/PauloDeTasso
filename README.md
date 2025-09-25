@@ -191,7 +191,7 @@
 ### 🌐 Portfólio de Projetos
 <div align="center">
   <img src="./SITE-001.jpg" alt="Portfolio" width="50%" />
-  <p>Este link reúne <b>outros projetos desenvolvidos por Paulo de Tasso</b></p>
+  <p>Este link reúne <b>alguns dos projetos desenvolvidos por Paulo de Tasso</b></p>
   🌐 <a href="https://paulodetasso.github.io/projetos/">Visite o projeto online</a>
 </div>
 
