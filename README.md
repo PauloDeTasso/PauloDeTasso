@@ -136,11 +136,9 @@
 
 ---
   
-🏅 Reconhecimentos Acadêmicos
-
 <div align="center">
 
-  <h3>🏅 Aluno Nota 10 – Estácio</h3>
+  <h3>🏅 Reconhecimentos Acadêmicos - Aluno Nota 10 – Estácio</h3>
   <p>
     Reconhecimento oficial por excelência acadêmica nas disciplinas.<br>
     Mensagens originais da instituição disponíveis abaixo.
