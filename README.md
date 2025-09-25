@@ -37,7 +37,23 @@
 ![GRASP](https://img.shields.io/badge/GRASP-Principles-9467bd?style=for-the-badge&logo=github&logoColor=white)  
 ![GOF](https://img.shields.io/badge/GOF-Design%20Patterns-ff7f0e?style=for-the-badge&logo=github&logoColor=white) 
 ![Alta Coesão & Baixo Acoplamento](https://img.shields.io/badge/High%20Cohesion-Low%20Coupling-17becf?style=for-the-badge&logo=github&logoColor=white) 
-![UML](https://img.shields.io/badge/UML-Modeling-00bfff?style=for-the-badge&logo=mermaid&logoColor=white)
+
+---
+
+### 🛡️ **UML, Segurança & Metodologias Ágeis**
+
+<!-- UML / Modelagem -->
+![UML](https://img.shields.io/badge/UML-Modeling-00bfff?style=for-the-badge&logo=mermaid&logoColor=white)  
+
+<!-- Segurança / DevSecOps -->
+![OWASP](https://img.shields.io/badge/OWASP-Security-ff0000?style=for-the-badge)  
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Practices-17becf?style=for-the-badge)  
+![PenTesting](https://img.shields.io/badge/PenTesting-Tools-f4b400?style=for-the-badge)  
+
+<!-- Metodologias Ágeis / Boas práticas -->
+![Scrum](https://img.shields.io/badge/Scrum-Agile-6f42c1?style=for-the-badge)  
+![Kanban](https://img.shields.io/badge/Kanban-Agile-0078d4?style=for-the-badge)  
+![XP](https://img.shields.io/badge/Extreme%20Programming-Agile-9467bd?style=for-the-badge)  
 
 ---
 
