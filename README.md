@@ -26,7 +26,7 @@
 
 ![MVC](https://img.shields.io/badge/MVC-Model%2C%20View%2C%20Controller-4B0082?style=for-the-badge)  
 ![DDD - Domain Driven Design](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-6f42c1?style=for-the-badge)  
-![CBD - Component Based Design](https://img.shields.io/badge/CBD-ComponentBasedDesign-0078d4?style=for-the-badge)  
+![CBD - Component Based Design](https://img.shields.io/badge/CBD-Component%20Based%20Design-0078d4?style=for-the-badge)  
 ![Onion Architecture](https://img.shields.io/badge/Onion-Architecture-ff69b4?style=for-the-badge)  
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-2ca02c?style=for-the-badge)  
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal-Architecture-f4b400?style=for-the-badge)  
