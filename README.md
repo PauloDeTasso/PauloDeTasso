@@ -8,11 +8,6 @@
     alt="PAULO DE TASSO Header"
   />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;FullStack+Developer;Seja+Bem-vindo%21%F0%9F%8E%89)](https://github.com/PauloDeTasso)
-
-  <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=PauloDeTasso&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
-  <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDeTasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" alt="Top languages"/>
-
 ---
 
 ### 🚀 **Stacks**
@@ -241,6 +236,13 @@
   <p>Este link reúne <b>alguns dos projetos desenvolvidos por Paulo de Tasso</b></p>
   🌐 <a href="https://paulodetasso.github.io/projetos/">Visitar os projetos online</a>
 </div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;FullStack+Developer;Seja+Bem-vindo%21%F0%9F%8E%89)](https://github.com/PauloDeTasso)
+
+  <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=PauloDeTasso&show_icons=true&count_private=true&hide_border=true&title_color=1B998B&icon_color=1B998B&text_color=ffffff&bg_color=0a0c10&hide=contribs&include_all_commits=true&rank_icon=github" alt="Paulo GitHub stats" />
+  <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDeTasso&layout=compact&hide_border=true&title_color=1B998B&text_color=ffffff&bg_color=0a0c10" alt="Top languages"/>
 
 ---
 
