@@ -44,7 +44,7 @@
 
 ---
 
-### 🗄️ **Databases**
+### 🗄️ **Databases & Ferramentas**
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
@@ -53,11 +53,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge)  
-
----
-
-### 💾 **Backup & Restauração**
-
 ![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge) 
 ![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge) 
 
@@ -65,7 +60,7 @@
 
 <div align="center">
 
-### 🛠️ **Ferramentas & Modelagens**
+### 🛠️ **Modelagens & Ferramentas**
 ![ERD - Entity-Relationship Diagram](https://img.shields.io/badge/ERD-Entity%20Relationship%20Diagram-FF8C00?style=for-the-badge)  
 ![UML - Unified Modeling Language](https://img.shields.io/badge/UML-Unified%20Modeling%20Language-00CED1?style=for-the-badge)  
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)  
@@ -101,7 +96,7 @@
 
 <div align="center">
 
-### 🛡️ **DevSecOps**
+### 🛡️ **DevSecOps & Ferramentas**
 
 ![SAST](https://img.shields.io/badge/SAST-SAST-DC2626?style=for-the-badge)  
 ![DAST](https://img.shields.io/badge/DAST-DAST-F59E0B?style=for-the-badge)  
@@ -116,7 +111,7 @@
 
 <div align="center">
 
-### 🧪 **Tests**
+### 🧪 **Tests & Ferramentas**
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)  
 ![Mockito](https://img.shields.io/badge/Mockito-6B7280?style=for-the-badge)  
@@ -138,7 +133,7 @@
 
 ---
 
-### 🎨 **UI/UX & Prototipagem**
+### 🎨 **UI/UX - Prototipagem & Ferramentas**
 
 | Design & Prototipagem | Ícones | Componentes UI |
 |------------------------|--------|----------------|
@@ -169,7 +164,7 @@
 
 ---
 
-### 📖 **Documentação**
+### 📖 **Documentação & Ferramentas**
 
 | Especificações & APIs | Diagramas & Modelagem | Sites & Projetos |
 |------------------------|------------------------|------------------|
