@@ -151,8 +151,6 @@
 
 ### ♿ **Acessibilidade**
 
-| Ferramentas & Boas Práticas |
-|-----------------------------|
 | ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)  ![Axe](https://img.shields.io/badge/Axe-Accessibility-4A90E2?style=for-the-badge)  ![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F7DF1E?style=for-the-badge) |
 
 ---
