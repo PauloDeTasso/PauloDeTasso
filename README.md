@@ -44,17 +44,19 @@
 
 ---
 
-### 🗄️ **Databases & Ferramentas**
+### 🗄️ **Databases & Ferramentas (organizado por categoria)**
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge)  
-![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge)  
-![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge)  
+| Relacionais & Managed | Embutidos | NoSQL | Search & Analytics |
+|----------------------|-----------|-------|--------------------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)<br>![RDS](https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)<br>![Cloud_SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)<br>![Azure_DB](https://img.shields.io/badge/Azure_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)<br>![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6B00?style=for-the-badge&logo=clickhouse&logoColor=white) |
+
+| Time-series | ORMs & Persistência | Migração & Versionamento (DB) | Pooling & Conexões |
+|-------------|---------------------|-------------------------------|--------------------|
+| ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0055B8?style=for-the-badge) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)<br>![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge) | ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)<br>![Liquibase](https://img.shields.io/badge/Liquibase-0A2540?style=for-the-badge&logo=liquibase&logoColor=white) | ![HikariCP](https://img.shields.io/badge/HikariCP-2C7BE5?style=for-the-badge)<br>![pgBouncer](https://img.shields.io/badge/pgBouncer-2F8EDE?style=for-the-badge) |
+
+| Backup & Recovery | CDC / Streaming / Replicação | Test & Dev (DB) | Data Warehouse & Cloud Analytics |
+|-------------------|------------------------------|-----------------|----------------------------------|
+| ![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge)<br>![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge)<br>![Percona_XtraBackup](https://img.shields.io/badge/Percona_XtraBackup-FF6F00?style=for-the-badge) | ![Debezium](https://img.shields.io/badge/Debezium-7C3AED?style=for-the-badge) | ![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=for-the-badge) | ![Snowflake](https://img.shields.io/badge/Snowflake-2D9CDB?style=for-the-badge&logo=snowflake&logoColor=white)<br>![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
 ---
 
