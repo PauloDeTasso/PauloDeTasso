@@ -38,7 +38,7 @@
 
 ---
 
-### ⚡ **Metodologias Ágeis & Boas Práticas**
+### ⚡ **Metodologias Ágeis & Ferramentas**
 
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-6f42c1?style=for-the-badge)  
 ![XP](https://img.shields.io/badge/Extreme%20Programming-Agile-9467bd?style=for-the-badge)  
