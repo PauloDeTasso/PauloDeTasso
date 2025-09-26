@@ -88,6 +88,14 @@
 
 ---
 
+### 🔐 **Segurança & Autenticação**
+
+| Autenticação & Tokens | Criptografia & Hashing | Proteções & Boas Práticas |
+|----------------------|----------------------|---------------------------|
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)  ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white) | ![BCrypt](https://img.shields.io/badge/BCrypt-FF6F00?style=for-the-badge)  ![AES-256](https://img.shields.io/badge/AES-256-0078D7?style=for-the-badge) | ![RBAC](https://img.shields.io/badge/RBAC-5A5A5A?style=for-the-badge)  ![CSRF](https://img.shields.io/badge/CSRF-Protected-F59E0B?style=for-the-badge)  ![XSS](https://img.shields.io/badge/XSS-Filtered-DC2626?style=for-the-badge)  ![SQLi](https://img.shields.io/badge/SQLi-Prevented-8B0000?style=for-the-badge) |
+
+---
+
 <div align="center">
 
 ### 🛡️ **DevSecOps**
