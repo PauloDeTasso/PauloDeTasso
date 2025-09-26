@@ -35,7 +35,8 @@
 
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-6f42c1?style=for-the-badge)  
 ![XP](https://img.shields.io/badge/Extreme%20Programming-Agile-9467bd?style=for-the-badge)  
-![Kanban](https://img.shields.io/badge/Kanban-Agile-0078d4?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-Agile-0078d4?style=for-the-badge)  
+![Trello](https://img.shields.io/badge/Trello-Agile-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
@@ -96,6 +97,7 @@
 ![SCA](https://img.shields.io/badge/SCA-Dependency%20Scan-0EA5A4?style=for-the-badge)  
 ![SBOM](https://img.shields.io/badge/SBOM-Software%20Bill%20of%20Materials-7C3AED?style=for-the-badge)  
 ![Trivy](https://img.shields.io/badge/Trivy-Scanner-1F2937?style=for-the-badge)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white)
 
 </div>
 
@@ -109,6 +111,7 @@
 ![Mockito](https://img.shields.io/badge/Mockito-6B7280?style=for-the-badge)  
 ![Integration Tests](https://img.shields.io/badge/Integration%20Tests-0EA5A4?style=for-the-badge)  
 ![E2E](https://img.shields.io/badge/E2E-Playwright%20%7C%20Cypress-DB2777?style=for-the-badge)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -118,7 +121,7 @@
 
 | Containerização e Orquestração | IaC & Automação | CI/CD & GitOps | Monitoramento, Logs & Tracing | Operações & Infra |
 |-------------------------------|----------------|----------------|-------------------------------|-----------------|
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  ![Logback](https://img.shields.io/badge/Logback-DC382D?style=for-the-badge&logoColor=white)  ![SLF4J](https://img.shields.io/badge/SLF4J-5A5A5A?style=for-the-badge&logoColor=white)  ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/Apache-6BA335?style=for-the-badge&logo=apache&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  ![Logback](https://img.shields.io/badge/Logback-DC382D?style=for-the-badge&logoColor=white)  ![SLF4J](https://img.shields.io/badge/SLF4J-5A5A5A?style=for-the-badge&logoColor=white)  ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/Apache-6BA335?style=for-the-badge&logo=apache&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4f62ad?style=for-the-badge&logo=opentelemetry&logoColor=white) | ![VPS CLOUD](https://img.shields.io/badge/VPS_CLOUD-00ADEF?style=for-the-badge&logo=linux&logoColor=white) |
 |  |  |  | ![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
@@ -136,7 +139,8 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
+![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge)
 
 ---
 
@@ -144,8 +148,7 @@
 
 | Especificações & APIs | Diagramas & Modelagem | Sites & Projetos |
 |------------------------|------------------------|------------------|
-| ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) | ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)  ![Mermaid](https://img.shields.io/badge/Mermaid-00B4D8?style=for-the-badge&logo=mermaid&logoColor=white) | ![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=mkdocs&logoColor=white)  ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white) |
-
+| ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) | ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)  ![Mermaid](https://img.shields.io/badge/Mermaid-00B4D8?style=for-the-badge&logo=mermaid&logoColor=white) | ![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=mkdocs&logoColor=white)  ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 ---
   
