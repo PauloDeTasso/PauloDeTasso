@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### 🛠️ **Ferramentas**
+### 🛠️ **Ferramentas & Modelagens**
 ![ERD - Entity-Relationship Diagram](https://img.shields.io/badge/ERD-Entity%20Relationship%20Diagram-FF8C00?style=for-the-badge)  
 ![UML - Unified Modeling Language](https://img.shields.io/badge/UML-Unified%20Modeling%20Language-00CED1?style=for-the-badge)  
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)  
@@ -148,7 +148,7 @@
 
 ### ♿ **Acessibilidade**
 
-| ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)  ![Axe](https://img.shields.io/badge/Axe-Accessibility-4A90E2?style=for-the-badge)  ![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F7DF1E?style=for-the-badge) |
+![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)  ![Axe](https://img.shields.io/badge/Axe-Accessibility-4A90E2?style=for-the-badge)  ![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F7DF1E?style=for-the-badge) 
 
 ---
 
