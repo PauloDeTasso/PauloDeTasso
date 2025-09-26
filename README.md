@@ -57,6 +57,7 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge)  
 
+---
 
 <div align="center">
 
