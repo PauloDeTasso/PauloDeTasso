@@ -44,7 +44,7 @@
 
 ---
 
-### 🗄️ **Databases & Ferramentas (organizado por categoria)**
+### 🗄️ **Databases & Ferramentas**
 
 | Relacionais & Managed | Embutidos | NoSQL | Search & Analytics |
 |----------------------|-----------|-------|--------------------|
