@@ -61,8 +61,6 @@
 
 ### 💾 **Backup & Restauração**
 
-| Banco de Dados & Ferramentas |
-|-----------------------------|
 | ![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge)  ![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge) |
 
 ---
