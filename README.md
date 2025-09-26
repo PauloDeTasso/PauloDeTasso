@@ -64,7 +64,10 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge)  
 ![ERD - Entity-Relationship Diagram](https://img.shields.io/badge/ERD-Entity%20Relationship%20Diagram-FF8C00?style=for-the-badge)  
-![UML - Unified Modeling Language](https://img.shields.io/badge/UML-Unified%20Modeling%20Language-00CED1?style=for-the-badge)
+![UML - Unified Modeling Language](https://img.shields.io/badge/UML-Unified%20Modeling%20Language-00CED1?style=for-the-badge)  
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)  
+![Lucidchart](https://img.shields.io/badge/Lucidchart-2D2D2D?style=for-the-badge&logo=lucidchart&logoColor=F96D00)  
+![Xmind](https://img.shields.io/badge/Xmind-FF4B4B?style=for-the-badge&logo=xmind&logoColor=white)  
 
 </div>
 
@@ -75,10 +78,11 @@
 ### 💻**IDEs**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  
 ![NetBeans](https://img.shields.io/badge/NetBeans-2D3E50?style=for-the-badge&logo=apache-netbeans&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
 
 </div>
 
