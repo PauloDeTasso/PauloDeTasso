@@ -59,6 +59,14 @@
 
 ---
 
+### 💾 **Backup & Restauração**
+
+| Banco de Dados & Ferramentas |
+|-----------------------------|
+| ![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge)  ![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge) |
+
+---
+
 <div align="center">
 
 ### 🛠️ **Ferramentas**
@@ -139,6 +147,22 @@
 | Design & Prototipagem | Ícones | Componentes UI |
 |------------------------|--------|----------------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)<br>![Canvas](https://img.shields.io/badge/Canvas-36C5F0?style=for-the-badge&logo=canvas&logoColor=white)<br>![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)<br>![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)<br>![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)<br>![Heroicons](https://img.shields.io/badge/HeroIcons-0EA5E9?style=for-the-badge&logo=heroicons&logoColor=white) | ![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+
+---
+
+### ♿ **Acessibilidade**
+
+| Ferramentas & Boas Práticas |
+|-----------------------------|
+| ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)  ![Axe](https://img.shields.io/badge/Axe-Accessibility-4A90E2?style=for-the-badge)  ![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F7DF1E?style=for-the-badge) |
+
+---
+
+### ⚡ **Cache & Mensageria**
+
+| Cache | Mensageria |
+|-------|------------|
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  ![Memcached](https://img.shields.io/badge/Memcached-0078D7?style=for-the-badge&logo=memcached&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
 
 ---
 
