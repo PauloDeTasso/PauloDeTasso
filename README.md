@@ -90,7 +90,7 @@
 
 | Autenticação & Tokens | Criptografia & Hashing | Proteções & Boas Práticas |
 |----------------------|----------------------|---------------------------|
-| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)  ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white) | ![BCrypt](https://img.shields.io/badge/BCrypt-FF6F00?style=for-the-badge)  ![AES-256](https://img.shields.io/badge/AES-256-0078D7?style=for-the-badge) | ![RBAC](https://img.shields.io/badge/RBAC-5A5A5A?style=for-the-badge)  ![CSRF](https://img.shields.io/badge/CSRF-Protected-F59E0B?style=for-the-badge)  ![XSS](https://img.shields.io/badge/XSS-Filtered-DC2626?style=for-the-badge)  ![SQLi](https://img.shields.io/badge/SQLi-Prevented-8B0000?style=for-the-badge) |
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white) <br> ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white) <br> ![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-007ACC?style=for-the-badge&logo=openid&logoColor=white) <br> ![SAML](https://img.shields.io/badge/SAML-FF6600?style=for-the-badge&logo=saml&logoColor=white) | ![BCrypt](https://img.shields.io/badge/BCrypt-FF6F00?style=for-the-badge) <br> ![Argon2](https://img.shields.io/badge/Argon2-339933?style=for-the-badge) <br> ![AES-256](https://img.shields.io/badge/AES-256-0078D7?style=for-the-badge) <br> ![ChaCha20](https://img.shields.io/badge/ChaCha20-9933FF?style=for-the-badge) | ![RBAC](https://img.shields.io/badge/RBAC-5A5A5A?style=for-the-badge) <br> ![ABAC](https://img.shields.io/badge/ABAC-6B7280?style=for-the-badge) <br> ![CSRF](https://img.shields.io/badge/CSRF-Protected-F59E0B?style=for-the-badge) <br> ![XSS](https://img.shields.io/badge/XSS-Filtered-DC2626?style=for-the-badge) <br> ![SQLi](https://img.shields.io/badge/SQLi-Prevented-8B0000?style=for-the-badge) <br> ![CSP](https://img.shields.io/badge/Content_Security_Policy-1E40AF?style=for-the-badge) <br> ![2FA](https://img.shields.io/badge/2FA-047857?style=for-the-badge) <br> ![MFA](https://img.shields.io/badge/MFA-065F46?style=for-the-badge) <br> ![HTTPS](https://img.shields.io/badge/HTTPS-0EA5E9?style=for-the-badge) <br> ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-F59E0B?style=for-the-badge) |
 
 ---
 
@@ -98,12 +98,31 @@
 
 ### 🛡️ **DevSecOps & Ferramentas**
 
+**Análise Estática e Dinâmica (SAST / DAST)**  
 ![SAST](https://img.shields.io/badge/SAST-SAST-DC2626?style=for-the-badge)  
 ![DAST](https://img.shields.io/badge/DAST-DAST-F59E0B?style=for-the-badge)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-PenTest-FBBF24?style=for-the-badge)  
+
+**Gestão de Dependências e Vulnerabilidades**  
 ![SCA](https://img.shields.io/badge/SCA-Dependency%20Scan-0EA5A4?style=for-the-badge)  
 ![SBOM](https://img.shields.io/badge/SBOM-Software%20Bill%20of%20Materials-7C3AED?style=for-the-badge)  
 ![Trivy](https://img.shields.io/badge/Trivy-Scanner-1F2937?style=for-the-badge)  
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white)
+
+**Autenticação e Autorização conforme OWASP / NIST**  
+![OWASP](https://img.shields.io/badge/OWASP-Top10-FF5722?style=for-the-badge&logo=owasp&logoColor=white)  
+![NIST](https://img.shields.io/badge/NIST-Cybersecurity-0078D7?style=for-the-badge&logo=nist&logoColor=white)  
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-Compliance-00B14F?style=for-the-badge)  
+
+**Gerenciamento Seguro de Segredos**  
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets-6C63FF?style=for-the-badge)  
+
+**Segurança de Containers e Nuvem**  
+![Aqua Security](https://img.shields.io/badge/Aqua_Security-Containers-0EA5E9?style=for-the-badge)  
+![Prisma Cloud](https://img.shields.io/badge/Prisma_Cloud-CSPM-10B981?style=for-the-badge)  
+
+**Monitoramento e Logging Seguro**  
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-Monitoring-F59E0B?style=for-the-badge)  
 
 </div>
 
