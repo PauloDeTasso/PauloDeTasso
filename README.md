@@ -152,11 +152,11 @@
 
 ---
 
-### ⚡ **Cache & Mensageria**
+### ⚡ **Cache & Mensageria** 
 
 | Cache | Mensageria |
 |-------|------------|
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  ![Memcached](https://img.shields.io/badge/Memcached-0078D7?style=for-the-badge&logo=memcached&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Memcached](https://img.shields.io/badge/Memcached-0078D7?style=for-the-badge&logo=memcached&logoColor=white) ![Caffeine](https://img.shields.io/badge/Caffeine-FF6F00?style=for-the-badge&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
 
 ---
 
@@ -236,7 +236,7 @@
 <div align="center">
   <img src="./SITE-001.jpg" alt="Portfolio" width="50%" />
   <p>Este link reúne <b>alguns dos projetos desenvolvidos por Paulo de Tasso</b></p>
-  🌐 <a href="https://paulodetasso.github.io/projetos/">Visitar os projetos online</a>
+  🌐 <a href="https://paulodetasso.github.io/projetos/">Visite os projetos online</a>
 </div>
 
 ---
