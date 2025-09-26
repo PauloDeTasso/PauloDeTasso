@@ -122,15 +122,31 @@
 | ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4f62ad?style=for-the-badge&logo=opentelemetry&logoColor=white) | ![VPS CLOUD](https://img.shields.io/badge/VPS_CLOUD-00ADEF?style=for-the-badge&logo=linux&logoColor=white) |
 |  |  |  | ![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
+---
+
+### 🎨 **UI/UX & Prototipagem**
+
+| Design & Prototipagem | Ícones | Componentes UI |
+|------------------------|--------|----------------|
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)  ![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)  ![Heroicons](https://img.shields.io/badge/HeroIcons-0EA5E9?style=for-the-badge&logo=heroicons&logoColor=white) | ![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+
 
 ---
 
-### 🔧 **Extras & Design**
+### 🔧 **Extras**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge)  
-![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge)  
+
+---
+
+### 📖 **Documentação**
+
+| Especificações & APIs | Diagramas & Modelagem | Sites & Projetos |
+|------------------------|------------------------|------------------|
+| ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) | ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)  ![Mermaid](https://img.shields.io/badge/Mermaid-00B4D8?style=for-the-badge&logo=mermaid&logoColor=white) | ![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=mkdocs&logoColor=white)  ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white) |
+
 
 ---
   
