@@ -166,6 +166,9 @@
 
 ---
 
+
+### ⚡ **Cache & Mensageria**
+
 | Cache | Mensageria |
 |-------|------------|
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)<br>![Memcached](https://img.shields.io/badge/Memcached-0078D7?style=for-the-badge&logo=memcached&logoColor=white)<br>![Caffeine](https://img.shields.io/badge/Caffeine-FF6F00?style=for-the-badge&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)<br>![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
@@ -180,6 +183,8 @@
 ![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge)
 
 ---
+
+### 📖 **Documentação & Ferramentas**
 
 | Especificações & APIs | Diagramas & Modelagem | Sites & Projetos |
 |------------------------|------------------------|------------------|
