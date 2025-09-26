@@ -146,7 +146,7 @@
 
 | Containerização e Orquestração | IaC & Automação | CI/CD & GitOps | Monitoramento, Logs & Tracing | Operações & Infra |
 |-------------------------------|----------------|----------------|-------------------------------|-----------------|
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)<br>![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<br>![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)<br>![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)<br>![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)<br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)<br>![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)<br>![Logback](https://img.shields.io/badge/Logback-DC382D?style=for-the-badge&logoColor=white)<br>![SLF4J](https://img.shields.io/badge/SLF4J-5A5A5A?style=for-the-badge&logoColor=white)<br>![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)<br>![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4f62ad?style=for-the-badge&logo=opentelemetry&logoColor=white)<br>![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)<br>![Apache](https://img.shields.io/badge/Apache-6BA335?style=for-the-badge&logo=apache&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)<br>![VPS CLOUD](https://img.shields.io/badge/VPS_CLOUD-00ADEF?style=for-the-badge&logo=linux&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)<br>![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<br>![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)<br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)<br>![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)<br>![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)<br>![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)<br>![Logback](https://img.shields.io/badge/Logback-DC382D?style=for-the-badge&logoColor=white)<br>![SLF4J](https://img.shields.io/badge/SLF4J-5A5A5A?style=for-the-badge&logoColor=white)<br>![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)<br>![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4f62ad?style=for-the-badge&logo=opentelemetry&logoColor=white)<br>![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)<br>![Apache](https://img.shields.io/badge/Apache-6BA335?style=for-the-badge&logo=apache&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)<br>![VPS CLOUD](https://img.shields.io/badge/VPS_CLOUD-00ADEF?style=for-the-badge&logo=linux&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
@@ -156,6 +156,8 @@
 |------------------------|--------|----------------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)<br>![Canvas](https://img.shields.io/badge/Canvas-36C5F0?style=for-the-badge&logo=canvas&logoColor=white)<br>![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)<br>![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)<br>![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)<br>![Heroicons](https://img.shields.io/badge/HeroIcons-0EA5E9?style=for-the-badge&logo=heroicons&logoColor=white) | ![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) |
 
+---
+
 ### ♿ **Acessibilidade**
 
 ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)  
@@ -164,14 +166,11 @@
 
 ---
 
-### ⚡ **Cache & Mensageria** 
-
 | Cache | Mensageria |
 |-------|------------|
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
-| ![Memcached](https://img.shields.io/badge/Memcached-0078D7?style=for-the-badge&logo=memcached&logoColor=white) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
-| ![Caffeine](https://img.shields.io/badge/Caffeine-FF6F00?style=for-the-badge&logoColor=white) |  |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)<br>![Memcached](https://img.shields.io/badge/Memcached-0078D7?style=for-the-badge&logo=memcached&logoColor=white)<br>![Caffeine](https://img.shields.io/badge/Caffeine-FF6F00?style=for-the-badge&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)<br>![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
 
+---
 
 ### 🔧 **Extras**
 
@@ -182,13 +181,9 @@
 
 ---
 
-### 📖 **Documentação & Ferramentas**
-
 | Especificações & APIs | Diagramas & Modelagem | Sites & Projetos |
 |------------------------|------------------------|------------------|
-| ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white) | ![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=mkdocs&logoColor=white) |
-| ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) | ![Mermaid](https://img.shields.io/badge/Mermaid-00B4D8?style=for-the-badge&logo=mermaid&logoColor=white) | ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white) |
-|  |  | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)<br>![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) | ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)<br>![Mermaid](https://img.shields.io/badge/Mermaid-00B4D8?style=for-the-badge&logo=mermaid&logoColor=white) | ![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=mkdocs&logoColor=white)<br>![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)<br>![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
 ---
   
