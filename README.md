@@ -173,15 +173,13 @@
   
 ### 🧩 **Extras Essenciais & Ferramentas**
 
+| Tecnologias Essenciais |
+|-------------------------------|
+| ![JSP](https://img.shields.io/badge/JSP-Java-007396?style=for-the-badge)<br>![Servlet](https://img.shields.io/badge/Servlet-Java-6DB33F?style=for-the-badge)<br>![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Java_Template-005F0F?style=for-the-badge)<br>![JSON](https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white)<br>![XML](https://img.shields.io/badge/XML-Data-8B0000?style=for-the-badge&logo=xml&logoColor=white) |
+
 | Controle de Versão & CI/CD | APIs & Integração | Produtividade & Organização |
 |----------------------------|-------------------|------------------------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![GitLab CI](https://img.shields.io/badge/GitLab_CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![API REST](https://img.shields.io/badge/API-REST-4ABF4F?style=for-the-badge)<br>![RESTful](https://img.shields.io/badge/RESTful-FF6F61?style=for-the-badge)<br>![OpenAPI](https://img.shields.io/badge/OpenAPI-Specification-6BA539?style=for-the-badge&logo=openapi&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman) | ![Notion](https://img.shields.io/badge/Notion-Workspace-000000?style=for-the-badge&logo=notion&logoColor=white)<br>![Trello](https://img.shields.io/badge/Trello-Organização-0052CC?style=for-the-badge&logo=trello&logoColor=white)<br>![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>![Lucidchart](https://img.shields.io/badge/Lucidchart-Diagrams-F37C20?style=for-the-badge&logo=lucidchart&logoColor=white) |
-
-### 🧩 **Extras Essenciais — Ferramentas e Conceitos Fundamentais (Atualizado)**
-
-| Outras Tecnologias Essenciais |
-|-------------------------------|
-| ![JSP](https://img.shields.io/badge/JSP-Java-007396?style=for-the-badge)<br>![Servlet](https://img.shields.io/badge/Servlet-Java-6DB33F?style=for-the-badge)<br>![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Java_Template-005F0F?style=for-the-badge)<br>![JSON](https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white)<br>![XML](https://img.shields.io/badge/XML-Data-8B0000?style=for-the-badge&logo=xml&logoColor=white) |
 
 ---
 
