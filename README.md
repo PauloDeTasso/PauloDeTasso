@@ -289,6 +289,12 @@
 
 <br/>
 
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=EXCELLENCE+IN+EVERY+TASK+🏆;DRIVEN+BY+INNOVATION+💡;DELIVERING+VALUE+🌟)](https://github.com/PauloDeTasso)
+
+<br/>
+
 <a href="https://github.com/PauloDeTasso">
   <img 
     width="100%" 
