@@ -217,7 +217,7 @@
 
   <h4>🐶 Adote um Pet</h4>
 
-  <img src="./adote_um_pet.jpg" alt="Logo Prefeitura" width="200px" />
+  <img src="./adote_um_pet.jpg" alt="Logo Prefeitura" width="200px" /><br>
   <img src="./logo-prefeitura1.jpg" alt="Logo Prefeitura" width="200px" />
 
   <p align="center" style="max-width: 600px; line-height: 1.6;">
