@@ -10,11 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Eu+Sou+Paulo+de+Tasso;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o+-+6/8;+DevSecOps+FullStack;Seja+Bem-vindo%21%F0%9F%8E%89)](https://github.com/PauloDeTasso)
 
-...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=...ALWAYS+LEARNING...)](https://github.com/PauloDeTasso)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=...ALWAYS+LEARNING+📚...;...BUILDING+EVERY+DAY+🚀...;...SHARING+KNOWLEDGE+🤝...)](https://github.com/PauloDeTasso)
 
-...
+---
 
 ### 🚀 **Stacks**
 
