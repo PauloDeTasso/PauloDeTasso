@@ -120,7 +120,11 @@
 
 <div align="center">
 
-### 🧪 **Tests & Ferramentas — Categorizado**
+### 🧪 **Tests & Ferramentas**
+
+| 🧪 Testes de APIs |
+|------------------|
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge) |
 
 | 🧱 Testes Unitários | 🔗 Testes de Integração | 🧪 Testes de Contrato | 🧬 Testes de Mutação |
 |---------------------|-------------------------|------------------------|-----------------------|
@@ -129,10 +133,6 @@
 | ⚡ Testes de Performance | 🔐 Testes de Segurança | 🎯 Testes End-to-End (E2E) | 📊 Cobertura & Relatórios |
 |--------------------------|------------------------|-----------------------------|----------------------------|
 | ![k6](https://img.shields.io/badge/k6-2D67F2?style=for-the-badge) <br> ![Gatling](https://img.shields.io/badge/Gatling-DA4453?style=for-the-badge) | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white) | ![E2E](https://img.shields.io/badge/E2E-Playwright%20%7C%20Cypress-DB2777?style=for-the-badge) <br> ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge) | ![JaCoCo](https://img.shields.io/badge/JaCoCo-CB2027?style=for-the-badge) <br> ![Allure](https://img.shields.io/badge/Allure-6B46C1?style=for-the-badge) <br> ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge) |
-
-| 🧪 Testes de APIs |
-|------------------|
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge) |
 
 </div>
 
@@ -176,9 +176,10 @@
 | Controle de Versão & CI/CD | APIs & Integração | Produtividade & Organização |
 |----------------------------|-------------------|------------------------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![GitLab CI](https://img.shields.io/badge/GitLab_CI-CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![API REST](https://img.shields.io/badge/API-REST-4ABF4F?style=for-the-badge)<br>![RESTful](https://img.shields.io/badge/RESTful-FF6F61?style=for-the-badge)<br>![OpenAPI](https://img.shields.io/badge/OpenAPI-Specification-6BA539?style=for-the-badge&logo=openapi&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman) | ![Notion](https://img.shields.io/badge/Notion-Workspace-000000?style=for-the-badge&logo=notion&logoColor=white)<br>![Trello](https://img.shields.io/badge/Trello-Organização-0052CC?style=for-the-badge&logo=trello&logoColor=white)<br>![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>![Lucidchart](https://img.shields.io/badge/Lucidchart-Diagrams-F37C20?style=for-the-badge&logo=lucidchart&logoColor=white) |
+
 | Testes Automatizados | Ambientes & Build | Outras Tecnologias Essenciais |
-|---------------------|--------------------|------------------------------|
-| ![JUnit](https://img.shields.io/badge/JUnit-Testes-25A162?style=for-the-badge)<br>![Mockito](https://img.shields.io/badge/Mockito-Mocking-FFAB00?style=for-the-badge)<br>![Cypress](https://img.shields.io/badge/Cypress-Frontend_Testing-17202C?style=for-the-badge&logo=cypress) | ![Maven](https://img.shields.io/badge/Maven-Build-CC0000?style=for-the-badge&logo=apachemaven&logoColor=white)<br>![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![JSP](https://img.shields.io/badge/JSP-Java-007396?style=for-the-badge)<br>![Servlet](https://img.shields.io/badge/Servlet-Java-6DB33F?style=for-the-badge)<br>![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Java_Template-005F0F?style=for-the-badge)<br>![JSON](https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white) |
+|----------------------|-------------------|-------------------------------|
+| ![JUnit](https://img.shields.io/badge/JUnit-Testes-25A162?style=for-the-badge)<br>![Mockito](https://img.shields.io/badge/Mockito-Mocking-FFAB00?style=for-the-badge)<br>![Cypress](https://img.shields.io/badge/Cypress-Frontend_Testing-17202C?style=for-the-badge&logo=cypress) | ![Maven](https://img.shields.io/badge/Maven-Build-CC0000?style=for-the-badge&logo=apachemaven&logoColor=white)<br>![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![JSP](https://img.shields.io/badge/JSP-Java-007396?style=for-the-badge)<br>![Servlet](https://img.shields.io/badge/Servlet-Java-6DB33F?style=for-the-badge)<br>![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Java_Template-005F0F?style=for-the-badge)<br>![JSON](https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white)<br>![XML](https://img.shields.io/badge/XML-Data-8B0000?style=for-the-badge&logo=xml&logoColor=white) |
 
 ---
 
