@@ -289,7 +289,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=EXCELLENCE+IN+EVERY+TASK+🏆;DRIVEN+BY+INNOVATION+💡;DELIVERING+VALUE+🌟)](https://github.com/PauloDeTasso)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=EXCELLENCE+IN+EVERY+TASK+🏆;DRIVEN+BY+INNOVATION+💡;DELIVERING+VALUE+🌟)](https://github.com/PauloDeTasso)
 
 <a href="https://github.com/PauloDeTasso">
   <img 
