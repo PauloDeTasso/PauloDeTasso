@@ -154,7 +154,6 @@
 
 ---
 
-
 ### ⚡ **Cache & Mensageria**
 
 | Cache | Mensageria |
@@ -219,7 +218,7 @@
 
   <img src="./adote_um_pet.jpg" alt="Logo Prefeitura" width="200px" /><br>
   <img src="./logo-prefeitura1.jpg" alt="Logo Prefeitura" width="200px" />
-
+<hr>
   <p align="center" style="max-width: 600px; line-height: 1.6;">
     O projeto <strong>"Adote um Pet"</strong> é uma iniciativa de extensão da faculdade Estácio,<br>
     desenvolvida por Paulo de Tasso.<br><br>
