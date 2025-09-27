@@ -25,6 +25,8 @@
 
 ### 🏗️ **Arquiteturas & Padrões**
 
+![UX First](https://img.shields.io/badge/UX-First-8e44ad?style=for-the-badge)  
+![Design First](https://img.shields.io/badge/Design-First-2980b9?style=for-the-badge)  
 ![DDD - Domain Driven Design](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-6f42c1?style=for-the-badge)  
 ![CBD - Component Based Design](https://img.shields.io/badge/CBD-Component%20Based%20Design-0078d4?style=for-the-badge)  
 ![MVC](https://img.shields.io/badge/MVC-Model%2C%20View%2C%20Controller-4B0082?style=for-the-badge)  
