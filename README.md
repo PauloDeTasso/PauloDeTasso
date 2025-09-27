@@ -49,22 +49,6 @@
 
 ---
 
-### 🗄️ **Databases & Ferramentas**
-
-| Relacionais & Managed | Embutidos | NoSQL | Search & Analytics |
-|----------------------|-----------|-------|--------------------|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)<br>![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6B00?style=for-the-badge&logo=clickhouse&logoColor=white) |
-
-| Time-series | ORMs & Persistência | Migração & Versionamento (DB) | Pooling & Conexões |
-|-------------|---------------------|-------------------------------|--------------------|
-| ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0055B8?style=for-the-badge) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)<br>![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge) | ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)<br>![Liquibase](https://img.shields.io/badge/Liquibase-0A2540?style=for-the-badge&logo=liquibase&logoColor=white) | ![HikariCP](https://img.shields.io/badge/HikariCP-2C7BE5?style=for-the-badge)<br>![pgBouncer](https://img.shields.io/badge/pgBouncer-2F8EDE?style=for-the-badge) |
-
-| Backup & Recovery | CDC / Streaming / Replicação | Test & Dev (DB) | Data Warehouse & Cloud Analytics |
-|-------------------|------------------------------|-----------------|----------------------------------|
-| ![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge)<br>![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge)<br>![Percona_XtraBackup](https://img.shields.io/badge/Percona_XtraBackup-FF6F00?style=for-the-badge) | ![Debezium](https://img.shields.io/badge/Debezium-7C3AED?style=for-the-badge) | ![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=for-the-badge) | ![Snowflake](https://img.shields.io/badge/Snowflake-2D9CDB?style=for-the-badge&logo=snowflake&logoColor=white)<br>![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
-
----
-
 <div align="center">
 
 ### 🛠️ **Modelagens & Ferramentas**
@@ -90,6 +74,22 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
 
 </div>
+
+---
+
+### 🗄️ **Databases & Ferramentas**
+
+| Relacionais & Managed | Embutidos | NoSQL | Search & Analytics |
+|----------------------|-----------|-------|--------------------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)<br>![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6B00?style=for-the-badge&logo=clickhouse&logoColor=white) |
+
+| Time-series | ORMs & Persistência | Migração & Versionamento (DB) | Pooling & Conexões |
+|-------------|---------------------|-------------------------------|--------------------|
+| ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0055B8?style=for-the-badge) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)<br>![JPA](https://img.shields.io/badge/JPA-6B8E23?style=for-the-badge) | ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)<br>![Liquibase](https://img.shields.io/badge/Liquibase-0A2540?style=for-the-badge&logo=liquibase&logoColor=white) | ![HikariCP](https://img.shields.io/badge/HikariCP-2C7BE5?style=for-the-badge)<br>![pgBouncer](https://img.shields.io/badge/pgBouncer-2F8EDE?style=for-the-badge) |
+
+| Backup & Recovery | CDC / Streaming / Replicação | Test & Dev (DB) | Data Warehouse & Cloud Analytics |
+|-------------------|------------------------------|-----------------|----------------------------------|
+| ![Barman](https://img.shields.io/badge/Barman-Backup-007ACC?style=for-the-badge)<br>![pgBackRest](https://img.shields.io/badge/pgBackRest-Backup-FF6F00?style=for-the-badge)<br>![Percona_XtraBackup](https://img.shields.io/badge/Percona_XtraBackup-FF6F00?style=for-the-badge) | ![Debezium](https://img.shields.io/badge/Debezium-7C3AED?style=for-the-badge) | ![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=for-the-badge) | ![Snowflake](https://img.shields.io/badge/Snowflake-2D9CDB?style=for-the-badge&logo=snowflake&logoColor=white)<br>![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
 ---
 
@@ -153,19 +153,11 @@
 
 ---
 
-### 🎨 **UI/UX - Prototipagem & Ferramentas**
+### 🎨 **UI/UX - Prototipagem, Ferramentas & Acessibilidade**
 
-| Design & Prototipagem | Ícones | Componentes UI |
-|------------------------|--------|----------------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)<br>![Canvas](https://img.shields.io/badge/Canvas-36C5F0?style=for-the-badge&logo=canvas&logoColor=white)<br>![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)<br>![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)<br>![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)<br>![Heroicons](https://img.shields.io/badge/HeroIcons-0EA5E9?style=for-the-badge&logo=heroicons&logoColor=white) | ![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-
----
-
-### ♿ **Acessibilidade**
-
-![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)  
-![Axe](https://img.shields.io/badge/Axe-Accessibility-4A90E2?style=for-the-badge)  
-![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F7DF1E?style=for-the-badge)  
+| Design & Prototipagem | Ícones | Componentes UI | Acessibilidade |
+|------------------------|--------|----------------|----------------|
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)<br>![Canvas](https://img.shields.io/badge/Canvas-36C5F0?style=for-the-badge&logo=canvas&logoColor=white)<br>![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)<br>![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)<br>![3D_&_2D_Design](https://img.shields.io/badge/3D_%26_2D-Design-orange?style=for-the-badge) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)<br>![Heroicons](https://img.shields.io/badge/HeroIcons-0EA5E9?style=for-the-badge&logo=heroicons&logoColor=white) | ![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-FF6F61?style=for-the-badge)<br>![Axe](https://img.shields.io/badge/Axe-Accessibility-4A90E2?style=for-the-badge)<br>![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F7DF1E?style=for-the-badge) |
 
 ---
 
@@ -178,15 +170,6 @@
 
 ---
 
-### 🔧 **Extras**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
-![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge)
-
----
-
 ### 📖 **Documentações & Ferramentas**
 
 | Especificações & APIs | Diagramas & Modelagem | Sites & Projetos |
@@ -195,6 +178,20 @@
 
 ---
   
+### 🔧 **Extras**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
+![ProfitChart](https://img.shields.io/badge/ProfitChart-NTSL-lightgrey?style=for-the-badge)  
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)  
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)  
+![API REST](https://img.shields.io/badge/API-REST-4ABF4F?style=for-the-badge)  
+![RESTful](https://img.shields.io/badge/RESTful-FF6F61?style=for-the-badge)  
+![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
+
+---
+
 <div align="center">
 
   <h3>🏅 Reconhecimentos Acadêmicos - Aluno Nota 10 – Estácio</h3>
