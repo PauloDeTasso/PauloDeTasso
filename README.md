@@ -12,7 +12,7 @@
 
 --
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=ALWAYS+LEARNING)](https://github.com/PauloDeTasso)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=...ALWAYS+LEARNING...)](https://github.com/PauloDeTasso)
 
 --
 
