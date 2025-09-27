@@ -287,13 +287,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Atendimento-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5583998454848)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20de%20Tasso-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paulodetasso)
 
-<br/>
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=EXCELLENCE+IN+EVERY+TASK+🏆;DRIVEN+BY+INNOVATION+💡;DELIVERING+VALUE+🌟)](https://github.com/PauloDeTasso)
-
-<br/>
 
 <a href="https://github.com/PauloDeTasso">
   <img 
