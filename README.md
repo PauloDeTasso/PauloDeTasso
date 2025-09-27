@@ -171,7 +171,7 @@
 
 ---
   
-### 🧩 **Extras Essenciais — Ferramentas e Conceitos Fundamentais**
+### 🧩 **Extras Essenciais & Ferramentas**
 
 | Controle de Versão & CI/CD | APIs & Integração | Produtividade & Organização |
 |----------------------------|-------------------|------------------------------|
