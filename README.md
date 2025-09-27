@@ -120,26 +120,19 @@
 
 <div align="center">
 
-### 🧪 **Tests & Ferramentas**
+### 🧪 **Tests & Ferramentas — Categorizado**
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)  
-![Mockito](https://img.shields.io/badge/Mockito-6B7280?style=for-the-badge)  
-![Integration Tests](https://img.shields.io/badge/Integration%20Tests-0EA5A4?style=for-the-badge)  
-![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=for-the-badge)  
-![JaCoCo](https://img.shields.io/badge/JaCoCo-CB2027?style=for-the-badge)  
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)  
-![E2E](https://img.shields.io/badge/E2E-Playwright%20%7C%20Cypress-DB2777?style=for-the-badge)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)  
-![Pact](https://img.shields.io/badge/Pact-7C3AED?style=for-the-badge)  
-![WireMock](https://img.shields.io/badge/WireMock-0EA5A4?style=for-the-badge)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)  
-![k6](https://img.shields.io/badge/k6-2D67F2?style=for-the-badge)  
-![Gatling](https://img.shields.io/badge/Gatling-DA4453?style=for-the-badge)  
-![PIT](https://img.shields.io/badge/PIT-Mutation-FF6F61?style=for-the-badge)  
-![Stryker](https://img.shields.io/badge/Stryker-Mutation-FF6F61?style=for-the-badge)  
-![Allure](https://img.shields.io/badge/Allure-6B46C1?style=for-the-badge)  
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white)
+| 🧱 Testes Unitários | 🔗 Testes de Integração | 🧪 Testes de Contrato | 🧬 Testes de Mutação |
+|---------------------|-------------------------|------------------------|-----------------------|
+| ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge) <br> ![Mockito](https://img.shields.io/badge/Mockito-6B7280?style=for-the-badge) | ![Integration Tests](https://img.shields.io/badge/Integration%20Tests-0EA5A4?style=for-the-badge) <br> ![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=for-the-badge) | ![Pact](https://img.shields.io/badge/Pact-7C3AED?style=for-the-badge) <br> ![WireMock](https://img.shields.io/badge/WireMock-0EA5A4?style=for-the-badge) | ![PIT](https://img.shields.io/badge/PIT-Mutation-FF6F61?style=for-the-badge) <br> ![Stryker](https://img.shields.io/badge/Stryker-Mutation-FF6F61?style=for-the-badge) |
+
+| ⚡ Testes de Performance | 🔐 Testes de Segurança | 🎯 Testes End-to-End (E2E) | 📊 Cobertura & Relatórios |
+|--------------------------|------------------------|-----------------------------|----------------------------|
+| ![k6](https://img.shields.io/badge/k6-2D67F2?style=for-the-badge) <br> ![Gatling](https://img.shields.io/badge/Gatling-DA4453?style=for-the-badge) | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white) | ![E2E](https://img.shields.io/badge/E2E-Playwright%20%7C%20Cypress-DB2777?style=for-the-badge) <br> ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge) | ![JaCoCo](https://img.shields.io/badge/JaCoCo-CB2027?style=for-the-badge) <br> ![Allure](https://img.shields.io/badge/Allure-6B46C1?style=for-the-badge) <br> ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge) |
+
+| 🧪 Testes de APIs |
+|------------------|
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge) |
 
 </div>
 
