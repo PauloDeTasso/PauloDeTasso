@@ -23,6 +23,24 @@
 
 ---
 
+### 🧠 **Engenharia de IA, Agentes & Automação Inteligente**
+
+| 🧠 Engenharia de IA          | 🤖 Agentes & Orquestração          | 🔌 Integração & Ferramentas  |
+| ---------------------------- | ---------------------------------- | ---------------------------- |
+| <br>  <br>  <br>  <br>  <br> | <br>  <br>  <br>  <br>  <br>  <br> | <br>  <br>  <br>  <br>  <br> |
+
+| 🧩 RAG & Conhecimento  | 🖥️ IA Local & Modelos       | 🧪 Avaliação & Observabilidade |
+| ---------------------- | ---------------------------- | ------------------------------ |
+| <br>  <br>  <br>  <br> | <br>  <br>  <br>  <br>  <br> | <br>  <br>  <br>  <br>  <br>   |
+
+| 🔐 Segurança de IA     | ⚙️ Automação & Desenvolvimento | 🧑‍💻 Desenvolvimento Assistido |
+| ---------------------- | ------------------------------ | ------------------------------- |
+| <br>  <br>  <br>  <br> | <br>  <br>  <br>  <br>         | <br>  <br>  <br>  <br>          |
+
+**Conceitos:** LLMs • engenharia de prompts • contexto • structured output • function calling • tool calling • agentes autônomos • agentes especializados • subagentes • sistemas multiagentes • planejamento • decomposição de tarefas • delegação • roteamento • memória • estado • workflows agentic • orquestração • human-in-the-loop • MCP • RAG • embeddings • busca semântica • vector search • recuperação de conhecimento • modelos locais • modelos quantizados • inferência local • contexto de modelos • avaliação de LLMs • avaliação de agentes • testes de regressão • traces • observabilidade • segurança de agentes • prompt injection • validação de ferramentas • controle de permissões • automação de desenvolvimento • agentic coding.
+
+---
+
 ### 🏗️ **Arquiteturas & Padrões**
 
 ![UX First](https://img.shields.io/badge/UX-First-8e44ad?style=for-the-badge)  
